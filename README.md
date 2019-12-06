@@ -1,2 +1,2 @@
-# first
-first repository test
+# first step
+first step is: learning github
